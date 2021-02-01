@@ -5,3 +5,5 @@ staticfiles
 db.sqlite3
 getting-started/*
 .idea/
+prod_settings.py
+local_settings.py
