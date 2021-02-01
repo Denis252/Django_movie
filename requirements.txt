@@ -3,3 +3,4 @@ Django
 gunicorn
 psycopg2-binary
 whitenoise
+alembic==1.1.0.dev0
